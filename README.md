@@ -1,5 +1,5 @@
 # PDF Waveform Extraction
-Extracts multiple waveforms from the PDF outputs of the Omron/Collins VP-1000/2000 device.
+Extracts multiple waveforms from the PDF outputs of the Omron VP-1000 Vascular Profiler
 
 # TO-DO:
 1. Extract other relevant numbers from the PDFs for each waveform.
