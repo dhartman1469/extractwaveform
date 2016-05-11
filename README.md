@@ -11,4 +11,6 @@ Extracts multiple waveforms from the PDF outputs of the Omron/Collins VP-1000/20
 
 # Usage
 Place all the PDFs in the pdftohtml5canvas/PDFs directory and run the Master.py file
-	python Master.py
+```
+python Master.py
+```
